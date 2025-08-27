@@ -1,4 +1,0 @@
-[console_scripts]
-publicador = my_pub_pkg.publicador:main
-suscriptor = my_pub_pkg.suscriptor:main
-
