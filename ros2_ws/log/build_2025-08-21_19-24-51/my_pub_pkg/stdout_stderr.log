@@ -1,0 +1,16 @@
+running develop
+running egg_info
+writing my_pub_pkg.egg-info/PKG-INFO
+writing dependency_links to my_pub_pkg.egg-info/dependency_links.txt
+writing entry points to my_pub_pkg.egg-info/entry_points.txt
+writing requirements to my_pub_pkg.egg-info/requires.txt
+writing top-level names to my_pub_pkg.egg-info/top_level.txt
+reading manifest file 'my_pub_pkg.egg-info/SOURCES.txt'
+writing manifest file 'my_pub_pkg.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/nath/ros2_ws/install/my_pub_pkg/lib/python3.10/site-packages/my-pub-pkg.egg-link (link to .)
+Installing publicador script to /home/nath/ros2_ws/install/my_pub_pkg/lib/my_pub_pkg
+Installing suscriptor script to /home/nath/ros2_ws/install/my_pub_pkg/lib/my_pub_pkg
+
+Installed /home/nath/ros2_ws/build/my_pub_pkg
+running symlink_data

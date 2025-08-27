@@ -1,0 +1,18 @@
+[0.777s] Invoking command in '/home/nath/ros2_ws/build/my_pub_pkg': PYTHONPATH=/home/nath/ros2_ws/build/my_pub_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nath/ros2_ws/install/my_pub_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/nath/ros2_ws/build/my_pub_pkg/build --no-deps symlink_data
+[1.075s] running develop
+[1.248s] running egg_info
+[1.248s] writing my_pub_pkg.egg-info/PKG-INFO
+[1.252s] writing dependency_links to my_pub_pkg.egg-info/dependency_links.txt
+[1.252s] writing entry points to my_pub_pkg.egg-info/entry_points.txt
+[1.252s] writing requirements to my_pub_pkg.egg-info/requires.txt
+[1.252s] writing top-level names to my_pub_pkg.egg-info/top_level.txt
+[1.255s] reading manifest file 'my_pub_pkg.egg-info/SOURCES.txt'
+[1.256s] writing manifest file 'my_pub_pkg.egg-info/SOURCES.txt'
+[1.257s] running build_ext
+[1.258s] Creating /home/nath/ros2_ws/install/my_pub_pkg/lib/python3.10/site-packages/my-pub-pkg.egg-link (link to .)
+[1.259s] Installing publicador script to /home/nath/ros2_ws/install/my_pub_pkg/lib/my_pub_pkg
+[1.259s] Installing suscriptor script to /home/nath/ros2_ws/install/my_pub_pkg/lib/my_pub_pkg
+[1.259s] 
+[1.259s] Installed /home/nath/ros2_ws/build/my_pub_pkg
+[1.260s] running symlink_data
+[1.303s] Invoked command in '/home/nath/ros2_ws/build/my_pub_pkg' returned '0': PYTHONPATH=/home/nath/ros2_ws/build/my_pub_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nath/ros2_ws/install/my_pub_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/nath/ros2_ws/build/my_pub_pkg/build --no-deps symlink_data
